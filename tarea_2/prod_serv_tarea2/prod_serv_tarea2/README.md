@@ -32,7 +32,7 @@ Se tiene los servico de:
 ```
 Se tiene la coleccion de POSTMAN en la ruta de (Coleccion_Postman\Product Service - Clase 2_tarea.postman_collection.json)
 
-## Persistencia en PstgresSQL
+## Persistencia en PostgresSQL
 Para ello se tiene el una maquina Docker:
 
 Crear un archivo docker-compose.yml 
@@ -71,5 +71,5 @@ Inspeccionar logs iniciales (opcional)
   docker compose logs -f postgres
 ```
 
-Los capturas se encuentran en la ruta (screenshots\06_aplicacion_Docker_Windows.png, screenshots\07_ejecucion_docker.png y screenshots\08_base_de_datos.png)
+Los capturas se encuentran en la ruta (screenshots\06_aplicacion_Docker_Windows.png, screenshots\07_ejecucion_docker.png, screenshots\08_base_de_datos.png y screenshots\09_datos_select_products.png)
 
